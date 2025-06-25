@@ -1,5 +1,4 @@
 ## 📈 Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=naruto1031&&show_icons=true&theme=dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=naruto1031&&show_icons=true&theme=dark" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naruto1031&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naruto1031&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naruto1031&theme=algolia&utcOffset=8)
